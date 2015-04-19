@@ -1,0 +1,13 @@
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\DeckRandomizer.dll
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\DeckRandomizer.pdb
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\DeckRandomizer.xml
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\DeckRandomizer.Resources.resources
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\DeckRandomizer.dll
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\DeckRandomizer.xml
+D:\Work\MQEA\Rnd\DeckRandomizer\obj\Debug\DeckRandomizer.pdb
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\MersenneTwister.dll
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\MersenneTwister.pdb
+D:\Work\MQEA\Rnd\DeckRandomizer\bin\Debug\MersenneTwister.xml

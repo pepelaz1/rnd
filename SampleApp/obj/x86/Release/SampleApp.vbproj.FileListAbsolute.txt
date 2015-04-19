@@ -1,0 +1,17 @@
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\SampleApp.exe
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\SampleApp.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\SampleApp.xml
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\DeckRandomizer.dll
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\MersenneTwister.dll
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\DeckRandomizer.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\DeckRandomizer.xml
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\MersenneTwister.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Release\MersenneTwister.xml
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\SampleApp.MainForm.resources
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\SampleApp.Resources.resources
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\SampleApp.exe
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\SampleApp.xml
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Release\SampleApp.pdb

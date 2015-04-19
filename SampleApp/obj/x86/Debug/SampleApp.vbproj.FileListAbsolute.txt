@@ -1,0 +1,17 @@
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\SampleApp.exe
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\SampleApp.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\SampleApp.xml
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\SampleApp.Resources.resources
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\SampleApp.exe
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\SampleApp.xml
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\SampleApp.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\DeckRandomizer.dll
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\DeckRandomizer.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\DeckRandomizer.xml
+D:\Work\MQEA\Rnd\SampleApp\obj\x86\Debug\SampleApp.MainForm.resources
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\MersenneTwister.dll
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\MersenneTwister.pdb
+D:\Work\MQEA\Rnd\SampleApp\bin\Debug\MersenneTwister.xml

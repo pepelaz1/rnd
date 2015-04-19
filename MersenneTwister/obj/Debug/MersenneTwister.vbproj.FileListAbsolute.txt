@@ -1,0 +1,10 @@
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\MersenneTwister.Resources.resources
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\MQEA\Rnd\MersenneTwister\bin\Debug\MersenneTwister.dll
+D:\Work\MQEA\Rnd\MersenneTwister\bin\Debug\MersenneTwister.pdb
+D:\Work\MQEA\Rnd\MersenneTwister\bin\Debug\MersenneTwister.xml
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\MersenneTwister.dll
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\MersenneTwister.xml
+D:\Work\MQEA\Rnd\MersenneTwister\obj\Debug\MersenneTwister.pdb
